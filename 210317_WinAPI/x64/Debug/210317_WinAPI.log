@@ -1,0 +1,437 @@
+﻿  AstarScene.cpp
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\CommonFunction.h(13,15): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\CommonFunction.h(121,17): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\AstarScene.cpp(28,18): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\AstarScene.cpp(29,15): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\AstarScene.cpp(30,14): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\AstarScene.cpp(47,18): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\AstarScene.cpp(48,15): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\AstarScene.cpp(49,14): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\AstarScene.cpp(73,31): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\AstarScene.cpp(74,30): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\AstarScene.cpp(217,164): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\AstarScene.cpp(217,104): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\AstarScene.cpp(217,42): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\AstarScene.cpp(628,32): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\AstarScene.cpp(683,45): warning C4244: 'return': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  BattleScene.cpp
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Player.h(123,35): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Player.h(124,70): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\CommonFunction.h(13,15): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\CommonFunction.h(121,17): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\BattleScene.cpp(20,55): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\BattleScene.cpp(20,45): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\BattleScene.cpp(42,75): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\BattleScene.cpp(42,66): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\BattleScene.cpp(71,38): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\BattleScene.cpp(146,33): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\BattleScene.cpp(147,33): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\BattleScene.cpp(148,41): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\BattleScene.cpp(149,41): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\BattleScene.cpp(158,44): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\BattleScene.cpp(159,43): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\BattleScene.cpp(177,78): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\BattleScene.cpp(182,82): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\BattleScene.cpp(187,82): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Button.cpp
+  Camera.cpp
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Camera.cpp(31,33): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Camera.cpp(32,34): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Camera.cpp(33,32): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Camera.cpp(34,35): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Camera.cpp(87,22): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Camera.cpp(88,22): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Camera.cpp(108,32): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Camera.cpp(109,33): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Camera.cpp(110,31): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Camera.cpp(111,34): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CameraTarget.cpp
+  CheckCollision.cpp
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Player.h(123,35): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Player.h(124,70): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\CommonFunction.h(13,15): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\CommonFunction.h(121,17): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\CheckCollision.cpp(122,26): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\CheckCollision.cpp(123,26): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Enemy.cpp
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\CommonFunction.h(13,15): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\CommonFunction.h(121,17): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Enemy.cpp(9,105): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Enemy.cpp(9,94): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Enemy.cpp(109,47): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Enemy.cpp(109,40): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Enemy.cpp(122,47): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Enemy.cpp(122,40): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Enemy.cpp(137,22): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  EnemyManager.cpp
+  GameNode.cpp
+  Image.cpp
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Image.cpp(170,54): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Image.cpp(170,29): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Image.cpp(212,39): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Image.cpp(208,41): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Image.cpp(251,36): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Image.cpp(250,35): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Image.cpp(272,39): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Image.cpp(271,38): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Image.cpp(267,40): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Image.cpp(266,39): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  ImageManager.cpp
+  Iori.cpp
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Iori.cpp(52,35): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Iori.cpp(52,28): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  KeyManager.cpp
+  LoadingScene.cpp
+  main.cpp
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\CommonFunction.h(13,15): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\CommonFunction.h(121,17): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\main.cpp(37,50): warning C4302: '형식 캐스트': 'LPSTR'에서 'WORD'(으)로 잘립니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\main.cpp(109,16): warning C4244: 'return': 'WPARAM'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  MainGame.cpp
+  Missile.cpp
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\CommonFunction.h(13,15): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\CommonFunction.h(121,17): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Missile.cpp(94,21): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Missile.cpp(95,20): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Missile.cpp(96,22): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Missile.cpp(97,23): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Missile.cpp(104,30): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Missile.cpp(104,23): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  MissileManager.cpp
+  Monster.cpp
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Monster.cpp(23,26): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Monster.cpp(24,25): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Monster.cpp(29,26): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Monster.cpp(30,25): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Monster.cpp(35,26): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Monster.cpp(36,25): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Monster.cpp(41,26): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Monster.cpp(42,25): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Monster.cpp(47,26): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Monster.cpp(48,25): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Monster.cpp(53,26): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Monster.cpp(54,25): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Monster.cpp(60,26): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Monster.cpp(61,25): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Monster.cpp(66,26): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Monster.cpp(67,25): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Monster.cpp(72,26): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Monster.cpp(73,25): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  MonsterManager.cpp
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  Monster_Archer.cpp
+  Monster_SwordMan.cpp
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Player.h(123,35): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Player.h(124,70): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\CommonFunction.h(13,15): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\CommonFunction.h(121,17): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Monster_SwordMan.cpp(9,119): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Monster_SwordMan.cpp(9,108): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Monster_SwordMan.cpp(11,111): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Monster_SwordMan.cpp(11,99): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Monster_SwordMan.cpp(13,112): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Monster_SwordMan.cpp(13,100): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Monster_SwordMan.cpp(19,24): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Monster_SwordMan.cpp(20,25): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Monster_SwordMan.cpp(21,23): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Monster_SwordMan.cpp(22,26): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Monster_SwordMan.cpp(47,25): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Monster_SwordMan.cpp(48,26): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Monster_SwordMan.cpp(49,24): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Monster_SwordMan.cpp(50,27): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Monster_SwordMan.cpp(54,10): warning C4101: 'targetPos' :참조되지 않은 지역 변수입니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Monster_SwordMan.cpp(161,39): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Monster_SwordMan.cpp(161,32): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Monster_SwordMan.cpp(169,61): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Monster_SwordMan.cpp(169,52): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Monster_SwordMan.cpp(170,62): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Monster_SwordMan.cpp(170,53): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Monster_SwordMan.cpp(185,14): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Monster_SwordMan.cpp(184,14): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Monster_SwordMan.cpp(193,14): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Monster_SwordMan.cpp(192,14): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Monster_SwordMan.cpp(200,14): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Monster_SwordMan.cpp(199,14): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Monster_SwordMan.cpp(215,16): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Monster_SwordMan.cpp(214,16): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Monster_SwordMan.cpp(266,22): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Monster_SwordMan.cpp(296,47): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Monster_SwordMan.cpp(297,47): warning C4244: '-=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Monster_SwordMan.cpp(305,22): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Monster_SwordMan.cpp(437,48): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Monster_SwordMan.cpp(438,48): warning C4244: '-=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  PixelCollisionScene.cpp
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\PixelCollisionScene.cpp(54,14): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\PixelCollisionScene.cpp(57,12): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\PixelCollisionScene.cpp(66,19): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\PixelCollisionScene.cpp(85,39): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\PixelCollisionScene.cpp(85,28): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Player.cpp
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Player.h(123,35): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Player.h(124,70): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\CommonFunction.h(13,15): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\CommonFunction.h(121,17): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Player.cpp(14,105): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Player.cpp(14,93): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Player.cpp(31,23): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Player.cpp(32,24): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Player.cpp(33,22): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Player.cpp(34,25): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Player.cpp(68,22): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Player.cpp(69,23): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Player.cpp(70,21): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Player.cpp(71,24): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Player.cpp(90,23): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Player.cpp(91,24): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Player.cpp(92,22): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Player.cpp(93,25): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Player.cpp(94,24): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Player.cpp(95,25): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Player.cpp(96,23): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Player.cpp(97,26): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Player.cpp(102,23): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Player.cpp(103,23): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Player.cpp(88,26): warning C4390: ';': 제어된 빈 문이 있습니다. 이 문이 필요합니까?
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Player.cpp(301,6): warning C4554: '&': 연산자 우선 순위에 오류가 있는지 확인하세요. 괄호를 사용하여 우선 순위를 명확하게 지정하세요.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Player.cpp(302,55): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Player.cpp(302,42): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Player.cpp(307,6): warning C4554: '&': 연산자 우선 순위에 오류가 있는지 확인하세요. 괄호를 사용하여 우선 순위를 명확하게 지정하세요.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Player.cpp(601,18): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Player.cpp(611,21): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Player.cpp(619,21): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Player.cpp(627,21): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Player.cpp(635,21): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
+  PlayerShip.cpp
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\PlayerShip.cpp(68,37): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\PlayerShip.cpp(68,30): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  RandomMap.cpp
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\CommonFunction.h(13,15): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\CommonFunction.h(121,17): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\RandomMap.cpp(20,80): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\RandomMap.cpp(20,65): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\RandomMap.cpp(122,6): warning C4101: 'size' :참조되지 않은 지역 변수입니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\RandomMap.cpp(420,22): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\RandomMap.cpp(421,22): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\RandomMap.cpp(442,34): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\RandomMap.cpp(443,34): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\RandomMap.cpp(453,103): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\RandomMap.cpp(453,84): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\RandomMap.cpp(453,66): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\RandomMap.cpp(453,41): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\RandomMap.cpp(486,50): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\RandomMap.cpp(487,49): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\RandomMap.cpp(490,22): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\RandomMap.cpp(489,22): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\RandomMap.cpp(508,24): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\RandomMap.cpp(507,24): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\RandomMap.cpp(527,21): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\RandomMap.cpp(528,21): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\RandomMap.cpp(535,49): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\RandomMap.cpp(536,48): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\RandomMap.cpp(542,20): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\RandomMap.cpp(541,20): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\RandomMap.cpp(525,9): warning C4101: 'playerClientPos' :참조되지 않은 지역 변수입니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\RandomMap.cpp(673,39): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\RandomMap.cpp(744,39): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\RandomMap.cpp(775,39): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\RandomMap.cpp(862,39): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\RandomMap.cpp(893,2): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\RandomMap.cpp(927,39): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\RandomMap.cpp(1031,40): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\RandomMap.cpp(1088,2): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\RandomMap.cpp(1120,44): warning C4244: '인수': 'LONG'에서 '_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=float
+          ]
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\RandomMap.cpp(1121,43): warning C4244: '인수': 'LONG'에서 '_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=float
+          ]
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\RandomMap.cpp(1132,70): warning C4244: '+=': '_Ty'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=float
+          ]
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\RandomMap.cpp(1133,69): warning C4244: '+=': '_Ty'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=float
+          ]
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\RandomMap.cpp(1134,71): warning C4244: '+=': '_Ty'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=float
+          ]
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\RandomMap.cpp(1135,72): warning C4244: '+=': '_Ty'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=float
+          ]
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\RandomMap.cpp(1295,8): warning C4101: 'inputPos' :참조되지 않은 지역 변수입니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\RandomMap.cpp(1532,13): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  SceneManager.cpp
+  SkillManager.cpp
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Player.h(123,35): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Player.h(124,70): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Skill_Dash.cpp
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Player.h(123,35): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Player.h(124,70): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\CommonFunction.h(13,15): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\CommonFunction.h(121,17): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Skill_Dash.cpp(11,44): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Skill_Dash.cpp(27,44): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Skill_Dash.cpp(282,28): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Skill_FireDash.cpp
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Player.h(123,35): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Player.h(124,70): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\CommonFunction.h(13,15): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\CommonFunction.h(121,17): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Skill_FireDash.cpp(25,44): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Skill_FireDash.cpp(65,44): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Skill_FireDash.cpp(82,58): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Skill_FireDash.cpp(82,45): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Skill_FireDash.cpp(373,26): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Skill_FireDash.cpp(374,23): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Skill_FireDash.cpp(378,26): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Skill_FireDash.cpp(379,23): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Skill_FireDash.cpp(383,23): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Skill_FireDash.cpp(384,26): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Skill_FireDash.cpp(388,23): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Skill_FireDash.cpp(389,26): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Skill_FireDash.cpp(402,28): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Skill_Ice.cpp
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Player.h(123,35): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Player.h(124,70): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\CommonFunction.h(13,15): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\CommonFunction.h(121,17): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Skill_Ice.cpp(43,35): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Skill_Ice.cpp(44,35): warning C4244: '-=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Skill_Ice.cpp(48,35): warning C4244: '-=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Skill_Ice.cpp(49,35): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Skill_Ice.cpp(105,58): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Skill_Ice.cpp(106,58): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Skill_Ice.cpp(107,85): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Skill_Ice.cpp(107,45): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Skill_Ice.cpp(111,58): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Skill_Ice.cpp(112,58): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Skill_Ice.cpp(113,85): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Skill_Ice.cpp(113,45): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Skill_Ice.cpp(120,51): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Skill_Ice.cpp(120,38): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Skill_IceCrystal.cpp
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Player.h(123,35): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Player.h(124,70): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\CommonFunction.h(13,15): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\CommonFunction.h(121,17): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Skill_IceCrystal.cpp(24,44): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Skill_IceCrystal.cpp(79,44): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Skill_IceCrystal.cpp(87,83): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Skill_IceCrystal.cpp(88,83): warning C4244: '-=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Skill_IceCrystal.cpp(92,83): warning C4244: '-=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Skill_IceCrystal.cpp(93,83): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Skill_IceCrystal.cpp(136,58): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Skill_IceCrystal.cpp(136,41): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Skill_RockThrow.cpp
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Player.h(123,35): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Player.h(124,70): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\CommonFunction.h(13,15): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\CommonFunction.h(121,17): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Skill_RockThrow.cpp(10,108): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Skill_RockThrow.cpp(10,99): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Skill_RockThrow.cpp(17,44): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Skill_RockThrow.cpp(53,44): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Skill_RockThrow.cpp(61,49): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Skill_RockThrow.cpp(62,49): warning C4244: '-=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Skill_RockThrow.cpp(79,51): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Skill_RockThrow.cpp(79,34): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Skill_RockThrow.cpp(80,43): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Skill_RockThrow.cpp(80,30): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Skill_RockThrow.cpp(81,92): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Skill_RockThrow.cpp(81,42): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Skill_WindAttack.cpp
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Player.h(123,35): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Player.h(124,70): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\CommonFunction.h(13,15): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\CommonFunction.h(121,17): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Skill_WindAttack.cpp(8,114): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Skill_WindAttack.cpp(8,103): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Skill_WindAttack.cpp(16,44): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Skill_WindAttack.cpp(42,44): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Skill_WindAttack.cpp(65,58): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Skill_WindAttack.cpp(65,45): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Skill_WindAttack.cpp(66,93): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Skill_WindAttack.cpp(66,43): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Tank.cpp
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\CommonFunction.h(13,15): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\CommonFunction.h(121,17): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Tank.cpp(9,104): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Tank.cpp(9,93): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Tank.cpp(21,36): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Tank.cpp(21,29): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Tank.cpp(110,37): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Tank.cpp(110,30): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Tank.cpp(114,27): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Tank.cpp(114,20): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Tank.cpp(115,37): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Tank.cpp(115,24): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Tank.cpp(123,36): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Tank.cpp(123,29): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  TankObject.cpp
+  TilemapTool.cpp
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\CommonFunction.h(13,15): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\CommonFunction.h(121,17): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\TilemapTool.cpp(132,18): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\TilemapTool.cpp(132,7): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\TilemapTool.cpp(134,18): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\TilemapTool.cpp(134,7): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\TilemapTool.cpp(136,18): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\TilemapTool.cpp(136,7): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\TilemapTool.cpp(138,18): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\TilemapTool.cpp(138,7): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\TilemapTool.cpp(140,18): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\TilemapTool.cpp(140,7): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\TilemapTool.cpp(142,18): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\TilemapTool.cpp(142,7): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\TilemapTool.cpp(385,74): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\TilemapTool.cpp(394,74): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\TilemapTool.cpp(409,71): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\TilemapTool.cpp(415,71): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\TilemapTool.cpp(421,71): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\TilemapTool.cpp(427,71): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\TilemapTool.cpp(433,71): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\TilemapTool.cpp(463,50): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Timer.cpp
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Timer.cpp(8,16): warning C4244: '=': 'double'에서 '__int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Timer.cpp(9,16): warning C4244: '=': 'double'에서 '__int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Timer.cpp(10,23): warning C4244: '=': 'double'에서 '__int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Timer.cpp(51,25): warning C4244: '=': 'float'에서 'unsigned long'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  TimerManager.cpp
+  TitleScene.cpp
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\CommonFunction.h(13,15): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\CommonFunction.h(121,17): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\TitleScene.cpp(7,123): warning C4305: '인수': 'unsigned long'에서 'bool'(으)로 잘립니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\TitleScene.cpp(7,102): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\TitleScene.cpp(7,93): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\TitleScene.cpp(8,95): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\TitleScene.cpp(8,86): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\TitleScene.cpp(34,56): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\TitleScene.cpp(34,42): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  UI.cpp
+  UIManager.cpp
+  UI_Player.cpp
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Player.h(123,35): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\Player.h(124,70): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\CommonFunction.h(13,15): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\CommonFunction.h(121,17): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\UI_Player.cpp(18,114): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\UI_Player.cpp(18,103): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\UI_Player.cpp(62,31): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\UI_Player.cpp(63,31): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Download\winapi2D--main (1) (1) (1) (1)\210317_WinAPI\UI_Player.cpp(64,31): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+  210317_WinAPI.vcxproj -> D:\Download\winapi2D--main (1) (1) (1) (1)\x64\Debug\210317_WinAPI.exe

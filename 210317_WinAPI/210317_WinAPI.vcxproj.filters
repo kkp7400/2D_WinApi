@@ -1,0 +1,327 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="MainGame">
+      <UniqueIdentifier>{77994adb-bb80-42e8-886b-851bb890958e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="2D Framework">
+      <UniqueIdentifier>{fae288c9-1a89-4141-bbae-e4f3680953fb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MainGame\KOF_Character">
+      <UniqueIdentifier>{c26ceddf-7bbf-443c-bf68-f846524a0680}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MainGame\Enemy">
+      <UniqueIdentifier>{6e5df244-c6a3-43cb-b9d0-02b9ddf1a72c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MainGame\Missile">
+      <UniqueIdentifier>{5a86d586-c7fc-46be-93af-bd645e44e8f4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="2D Framework\Manager">
+      <UniqueIdentifier>{b13c0c7c-4aa6-4918-a643-613eaee0edc6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="2D Framework\Timer">
+      <UniqueIdentifier>{1e84e8d0-34db-4438-9c9b-8c3603ab2fec}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MainGame\Scene">
+      <UniqueIdentifier>{43d02367-700b-49b5-a030-feb7b581ed9c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="2D Framework\UI">
+      <UniqueIdentifier>{f77d4c3b-d1c0-4152-8943-cde8ada65ad9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="2D Framework\UI\Button">
+      <UniqueIdentifier>{91eb96ad-df64-4b6d-bc8b-8a504d0d37bb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MainGame\LoadingScene">
+      <UniqueIdentifier>{9e46b46c-28ed-465b-aa19-5a10f8c592e3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MainGame\Player">
+      <UniqueIdentifier>{3236d3ef-3974-4256-84c5-42b486daa57c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MainGame\UI">
+      <UniqueIdentifier>{324978ce-04b9-4c0d-913a-026947a19cf0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MainGame\Monseter">
+      <UniqueIdentifier>{f8d6abcb-cba7-45db-b5ba-04f00822217d}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="MainGame.cpp">
+      <Filter>MainGame</Filter>
+    </ClCompile>
+    <ClCompile Include="Tank.cpp">
+      <Filter>MainGame</Filter>
+    </ClCompile>
+    <ClCompile Include="GameNode.cpp">
+      <Filter>2D Framework</Filter>
+    </ClCompile>
+    <ClCompile Include="Image.cpp">
+      <Filter>2D Framework</Filter>
+    </ClCompile>
+    <ClCompile Include="Iori.cpp">
+      <Filter>MainGame\KOF_Character</Filter>
+    </ClCompile>
+    <ClCompile Include="EnemyManager.cpp">
+      <Filter>MainGame\Enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="Enemy.cpp">
+      <Filter>MainGame\Enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="Missile.cpp">
+      <Filter>MainGame\Missile</Filter>
+    </ClCompile>
+    <ClCompile Include="MissileManager.cpp">
+      <Filter>MainGame\Missile</Filter>
+    </ClCompile>
+    <ClCompile Include="KeyManager.cpp">
+      <Filter>2D Framework\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="ImageManager.cpp">
+      <Filter>2D Framework\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="Timer.cpp">
+      <Filter>2D Framework\Timer</Filter>
+    </ClCompile>
+    <ClCompile Include="TimerManager.cpp">
+      <Filter>2D Framework\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerShip.cpp">
+      <Filter>MainGame</Filter>
+    </ClCompile>
+    <ClCompile Include="SceneManager.cpp">
+      <Filter>2D Framework\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="BattleScene.cpp">
+      <Filter>MainGame\Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="TilemapTool.cpp">
+      <Filter>MainGame\Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="Button.cpp">
+      <Filter>2D Framework\UI\Button</Filter>
+    </ClCompile>
+    <ClCompile Include="TitleScene.cpp">
+      <Filter>MainGame\Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="TankObject.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="CheckCollision.cpp">
+      <Filter>2D Framework\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="AstarScene.cpp">
+      <Filter>MainGame\Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="PixelCollisionScene.cpp">
+      <Filter>MainGame\Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="LoadingScene.cpp">
+      <Filter>MainGame\LoadingScene</Filter>
+    </ClCompile>
+    <ClCompile Include="RandomMap.cpp">
+      <Filter>MainGame\Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>MainGame\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="Camera.cpp">
+      <Filter>2D Framework\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="CameraTarget.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="SkillManager.cpp">
+      <Filter>MainGame\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="Skill_FireDash.cpp">
+      <Filter>MainGame\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="Skill_WindAttack.cpp">
+      <Filter>MainGame\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="Skill_RockThrow.cpp">
+      <Filter>MainGame\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="Skill_Dash.cpp">
+      <Filter>MainGame\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="Skill_IceCrystal.cpp">
+      <Filter>MainGame\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="UIManager.cpp">
+      <Filter>MainGame\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="UI_Player.cpp">
+      <Filter>MainGame\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="UI.cpp">
+      <Filter>MainGame\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="Skill_Ice.cpp">
+      <Filter>MainGame\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="Monster.cpp">
+      <Filter>MainGame\Monseter</Filter>
+    </ClCompile>
+    <ClCompile Include="Monster_Archer.cpp">
+      <Filter>MainGame\Monseter</Filter>
+    </ClCompile>
+    <ClCompile Include="Monster_SwordMan.cpp">
+      <Filter>MainGame\Monseter</Filter>
+    </ClCompile>
+    <ClCompile Include="MonsterManager.cpp">
+      <Filter>MainGame\Monseter</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="CommonFunction.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="config.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="MainGame.h">
+      <Filter>MainGame</Filter>
+    </ClInclude>
+    <ClInclude Include="Tank.h">
+      <Filter>MainGame</Filter>
+    </ClInclude>
+    <ClInclude Include="GameNode.h">
+      <Filter>2D Framework</Filter>
+    </ClInclude>
+    <ClInclude Include="Singleton.h">
+      <Filter>2D Framework</Filter>
+    </ClInclude>
+    <ClInclude Include="Image.h">
+      <Filter>2D Framework</Filter>
+    </ClInclude>
+    <ClInclude Include="Iori.h">
+      <Filter>MainGame\KOF_Character</Filter>
+    </ClInclude>
+    <ClInclude Include="EnemyManager.h">
+      <Filter>MainGame\Enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="Enemy.h">
+      <Filter>MainGame\Enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="Missile.h">
+      <Filter>MainGame\Missile</Filter>
+    </ClInclude>
+    <ClInclude Include="MissileManager.h">
+      <Filter>MainGame\Missile</Filter>
+    </ClInclude>
+    <ClInclude Include="KeyManager.h">
+      <Filter>2D Framework\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="ImageManager.h">
+      <Filter>2D Framework\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="Timer.h">
+      <Filter>2D Framework\Timer</Filter>
+    </ClInclude>
+    <ClInclude Include="TimerManager.h">
+      <Filter>2D Framework\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerShip.h">
+      <Filter>MainGame</Filter>
+    </ClInclude>
+    <ClInclude Include="SceneManager.h">
+      <Filter>2D Framework\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="BattleScene.h">
+      <Filter>MainGame\Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="TilemapTool.h">
+      <Filter>MainGame\Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="Button.h">
+      <Filter>2D Framework\UI\Button</Filter>
+    </ClInclude>
+    <ClInclude Include="TitleScene.h">
+      <Filter>MainGame\Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="TankObject.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="CheckCollision.h">
+      <Filter>2D Framework\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="AstarScene.h">
+      <Filter>MainGame\Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="PixelCollisionScene.h">
+      <Filter>MainGame\Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="LoadingScene.h">
+      <Filter>MainGame\LoadingScene</Filter>
+    </ClInclude>
+    <ClInclude Include="RandomMap.h">
+      <Filter>MainGame\Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>MainGame\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="Camera.h">
+      <Filter>2D Framework\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="CameraTarget.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="SkillManager.h">
+      <Filter>MainGame\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="Skill_FireDash.h">
+      <Filter>MainGame\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="Skill_WindAttack.h">
+      <Filter>MainGame\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="Skill_RockThrow.h">
+      <Filter>MainGame\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="Skill_Dash.h">
+      <Filter>MainGame\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="Skill_IceCrystal.h">
+      <Filter>MainGame\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="UIManager.h">
+      <Filter>MainGame\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="UI_Player.h">
+      <Filter>MainGame\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="UI.h">
+      <Filter>MainGame\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="Skill_Ice.h">
+      <Filter>MainGame\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="Monster.h">
+      <Filter>MainGame\Monseter</Filter>
+    </ClInclude>
+    <ClInclude Include="Monster_Archer.h">
+      <Filter>MainGame\Monseter</Filter>
+    </ClInclude>
+    <ClInclude Include="Monster_SwordMan.h">
+      <Filter>MainGame\Monseter</Filter>
+    </ClInclude>
+    <ClInclude Include="MonsterManager.h">
+      <Filter>MainGame\Monseter</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
